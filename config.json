@@ -1,14 +1,14 @@
 {
   "launcher": {
-    "latest": "0.1.5",
+    "latest": "0.1.6",
     "minimum": "0.1.0",
     "notes": [
-      "Perfis zerados, com pasta do jogo própria por perfil e cópia das configs da .minecraft",
-      "Ícones e skin 3D padrão também usam os jogos da .minecraft",
-      "Barras de rolagem no visual do launcher; Perfis atualiza sozinho"
+      "Box da conta no canto inferior esquerdo agora troca de conta",
+      "Card de perfil sem quebra de linha; listas e logs aguentam muitos itens",
+      "Sem anúncio quando não há anúncio"
     ],
-    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.5/PcM-Launcher-0.1.5-setup.exe",
-    "sha256": "6159b4e5016e8bd602aa31cbfa9b4dbd546edab15f8372e8d891aba43b038087"
+    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.6/PcM-Launcher-0.1.6-setup.exe",
+    "sha256": "e30b9f81456ef3a0680f0f7784d9552e66ea140135c2264a68a4ffbcd1d93141"
   },
   "sponsors": [],
   "popup": null

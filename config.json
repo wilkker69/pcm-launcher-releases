@@ -2,9 +2,11 @@
   "launcher": {
     "latest": "0.1.0",
     "minimum": "0.1.0",
-    "notes": [],
-    "downloadUrl": "",
-    "sha256": ""
+    "notes": [
+      "Primeira versão"
+    ],
+    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.0/PcM-Launcher-0.1.0-setup.exe",
+    "sha256": "a50c38b9f0ce61d9508b485a860af214f2cb53c4abe09ef1c628d15b9dc806fd"
   },
   "sponsors": [],
   "popup": null

@@ -1,14 +1,13 @@
 {
   "launcher": {
-    "latest": "0.1.1",
+    "latest": "0.1.2",
     "minimum": "0.1.0",
     "notes": [
-      "Logo novo do gabinete",
-      "Nome PcM na cor do tema",
-      "Instalador de um clique"
+      "Modificados: OptiFine, Forge, Fabric e clients da sua .minecraft",
+      "Versões com inheritsFrom funcionam"
     ],
-    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.1/PcM-Launcher-0.1.1-setup.exe",
-    "sha256": "e80a1b791de0228c3cd3761f7296d1d76a5d294e9359bec3aef8ca065ea124e3"
+    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.2/PcM-Launcher-0.1.2-setup.exe",
+    "sha256": "88cb94b840150927dbbd00857eb8d5fb156493a54f2bc8216b8ef10f908ce518"
   },
   "sponsors": [],
   "popup": null

@@ -1,14 +1,14 @@
 {
   "launcher": {
-    "latest": "0.1.6",
+    "latest": "0.1.7",
     "minimum": "0.1.0",
     "notes": [
-      "Box da conta no canto inferior esquerdo agora troca de conta",
-      "Card de perfil sem quebra de linha; listas e logs aguentam muitos itens",
-      "Sem anúncio quando não há anúncio"
+      "Abra vários Minecrafts ao mesmo tempo e remova Minecrafts da lista (engrenagem)",
+      "Organização da lista em Lista, Grade ou Compacta, e 6 estilos novos",
+      "Novos Minecrafts vão para a pasta .minecraft; skins mais confiáveis; mods sem ícone falso"
     ],
-    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.6/PcM-Launcher-0.1.6-setup.exe",
-    "sha256": "e30b9f81456ef3a0680f0f7784d9552e66ea140135c2264a68a4ffbcd1d93141"
+    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.7/PcM-Launcher-0.1.7-setup.exe",
+    "sha256": "2b2ca981fbc88db98b83725c899d877725babcd466e6197bb2d63454d1705537"
   },
   "sponsors": [],
   "popup": null

@@ -1,14 +1,14 @@
 {
   "launcher": {
-    "latest": "0.1.7",
+    "latest": "0.1.8",
     "minimum": "0.1.0",
     "notes": [
-      "Abra vários Minecrafts ao mesmo tempo e remova Minecrafts da lista (engrenagem)",
-      "Organização da lista em Lista, Grade ou Compacta, e 6 estilos novos",
-      "Novos Minecrafts vão para a pasta .minecraft; skins mais confiáveis; mods sem ícone falso"
+      "Temas refeitos com degradê e 6 temas novos (Aurora, Crepúsculo, Nether, End, Neon, Café)",
+      "Novo fundo Degradê",
+      "Mais organizações da lista: Tabela, Por pasta e Ícones"
     ],
-    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.7/PcM-Launcher-0.1.7-setup.exe",
-    "sha256": "2b2ca981fbc88db98b83725c899d877725babcd466e6197bb2d63454d1705537"
+    "downloadUrl": "https://github.com/wilkker69/pcm-launcher-releases/releases/download/v0.1.8/PcM-Launcher-0.1.8-setup.exe",
+    "sha256": "b947becceb0743d75071650dbd1decce3d756a48e64e2c59787ab3562fbd0f8f"
   },
   "sponsors": [],
   "popup": null
